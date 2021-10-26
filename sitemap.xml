@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://1957211767.github.io/tags/index.html</loc>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2021-10-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://1957211767.github.io/about/index.html</loc>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2021-10-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://1957211767.github.io/tags/%E9%9A%8F%E7%AC%94.html</loc>
+    <loc>http://example.com/tags/%E9%9A%8F%E7%AC%94.html</loc>
     
     <lastmod>2021-10-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://1957211767.github.io/2021/10/20/pytorch%E6%A1%86%E6%9E%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%92%8C%E4%B8%80%E4%BA%9B%E7%89%B9%E6%AE%8A%E5%8C%85%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
+    <loc>http://example.com/2021/10/20/pytorch%E6%A1%86%E6%9E%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%92%8C%E4%B8%80%E4%BA%9B%E7%89%B9%E6%AE%8A%E5%8C%85%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2021-10-20</lastmod>
     
   </url>
   
   <url>
-    <loc>http://1957211767.github.io/2021/10/20/hello-world/</loc>
+    <loc>http://example.com/2021/10/20/hello-world/</loc>
     
     <lastmod>2021-10-20</lastmod>
     
@@ -38,7 +38,7 @@
   
 
   <url>
-    <loc>http://1957211767.github.io/</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2021-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
